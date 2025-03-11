@@ -19,7 +19,7 @@ namespace ConsoleApplication
         /// <summary>
         /// Возвращает и задает данные для движка.
         /// </summary>
-        private string Engine
+        public string Engine
         {
             get
             {
